@@ -1,7 +1,7 @@
 # Hello, I am Rahul
 I am an engineer, passionate about tech. I currently work at Intel Corp, as Verification Engineer. I bring best of both worlds (sw and hw), to help validate Chips.
 My interests lies in sw, hw, and Comp Arch(High Perf Computing). Graduate in M.Sc (Comp Eng) from Stony Brook Univ.    
-In my free time, i try to dabble in my hobbies.
+In free time, i try to dabble in my hobbies.
 
 *Sw Languages* - Python, Java, C, C++   
 *Hw Langauges* - Verilog, System Verilog, UVM.
@@ -9,13 +9,18 @@ In my free time, i try to dabble in my hobbies.
 *Papers Published*   
 [Full Adder Using Self Resseting Logic](https://aircconline.com/vlsics/V7N4/7416vlsi06.pdf)    
 [6 bit flash ADC](https://www.ijser.org/onlineResearchPaperViewer.aspx?Design-of-An-Effective-Low-Power-and-less-complex-6-bit-flash-ADC-using-CMOS.pdf)
-
 ## Reach Out to me here!
 [<img align="left" alt="RahulReddyKondeti | LinkedIn" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="RahulReddyKondeti" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][website]
+[<img align="left" alt="RahulReddyKondeti" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" />][website]   
 
 [linkedin]: https://www.linkedin.com/in/rahul-reddy-kondeti/
 [website]: https://mail.google.com/mail/?view=cm&source=mailto&to=[rahulreddykondeti@gmail.com]
+<br>
+
+**Top Languages**
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KondetiRahulReddy&layout=compact)
+ 
 <!--
 
 **KondetiRahulReddy/KondetiRahulReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
